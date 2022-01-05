@@ -1,0 +1,7 @@
+C:\Users\Dominykas\source\repos\Inzinerinis_projektas\Dinaminis_programavimas\bin\Debug\Dinaminis_programavimas.exe.config
+C:\Users\Dominykas\source\repos\Inzinerinis_projektas\Dinaminis_programavimas\bin\Debug\Dinaminis_programavimas.exe
+C:\Users\Dominykas\source\repos\Inzinerinis_projektas\Dinaminis_programavimas\bin\Debug\Dinaminis_programavimas.pdb
+C:\Users\Dominykas\source\repos\Inzinerinis_projektas\Dinaminis_programavimas\obj\Debug\Dinaminis_programavimas.csproj.CoreCompileInputs.cache
+C:\Users\Dominykas\source\repos\Inzinerinis_projektas\Dinaminis_programavimas\obj\Debug\Dinaminis_programavimas.exe
+C:\Users\Dominykas\source\repos\Inzinerinis_projektas\Dinaminis_programavimas\obj\Debug\Dinaminis_programavimas.pdb
+C:\Users\Dominykas\source\repos\Inzinerinis_projektas\Dinaminis_programavimas\obj\Debug\Dinaminis_programavimas.csprojAssemblyReference.cache

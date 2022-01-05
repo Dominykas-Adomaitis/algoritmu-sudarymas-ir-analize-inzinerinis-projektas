@@ -1,0 +1,7 @@
+C:\Users\Dominykas\source\repos\Inzinerinis_projektas\Inzinerinis_projektas\bin\Debug\Inzinerinis_projektas.exe.config
+C:\Users\Dominykas\source\repos\Inzinerinis_projektas\Inzinerinis_projektas\bin\Debug\Inzinerinis_projektas.exe
+C:\Users\Dominykas\source\repos\Inzinerinis_projektas\Inzinerinis_projektas\bin\Debug\Inzinerinis_projektas.pdb
+C:\Users\Dominykas\source\repos\Inzinerinis_projektas\Inzinerinis_projektas\obj\Debug\Tiesiogine_rekursija.csprojAssemblyReference.cache
+C:\Users\Dominykas\source\repos\Inzinerinis_projektas\Inzinerinis_projektas\obj\Debug\Tiesiogine_rekursija.csproj.CoreCompileInputs.cache
+C:\Users\Dominykas\source\repos\Inzinerinis_projektas\Inzinerinis_projektas\obj\Debug\Inzinerinis_projektas.exe
+C:\Users\Dominykas\source\repos\Inzinerinis_projektas\Inzinerinis_projektas\obj\Debug\Inzinerinis_projektas.pdb
